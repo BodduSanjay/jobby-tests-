@@ -1,0 +1,17 @@
+.check-item-li {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.check-item-input {
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}
+.check-item-label {
+  font-size: 15px;
+  font-family: roboto;
+  color: white;
+}

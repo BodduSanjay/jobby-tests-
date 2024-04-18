@@ -1,0 +1,23 @@
+.SimilarJobItem-cont {
+  width: 30%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  background-color: #272727;
+  border-radius: 10px;
+}
+.descrp-cont {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+}
+.heading-job_details {
+  font-size: 20px;
+}
+
+@media (max-width: 767px) {
+  .SimilarJobItem-cont {
+    width: 90%;
+  }
+}
